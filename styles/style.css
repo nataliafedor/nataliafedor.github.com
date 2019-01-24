@@ -1,0 +1,21 @@
+body {
+  background-image: url("../images/BG.png");
+}
+.center-block-main {
+  margin: 0 auto;
+  max-width: 990px;
+}
+.menu {
+  margin: 0;
+  float: right;
+}
+.menu li {
+  float: left;
+  list-style: none;
+  padding: 12px 55px ;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: "Open Sans - Semibold";
+  font-size: 14px;
+  font-weight: 400;
+}
